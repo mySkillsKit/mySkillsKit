@@ -40,7 +40,7 @@ Passionate about java development, love coding.
   
   <tr>
     <td><img src="https://github.com/mySkillsKit/CV/blob/main/Certificate/Jpeg/11_stepik-certificate-187-48a55d8.jpg" width="438" height="308" alt="11_stepik-certificate-187-48a55d8.jpg"></td>
-    <td><img src="https://www.synopsys.com/content/dam/synopsys/sig-assets/images/sig-custom-java-logo.jpg.imgo.jpg" width="438" height="308" alt="cert.jpg"> </td>
+    <td><img src="https://github.com/mySkillsKit/CV/blob/main/Certificate/Jpeg/12_certificate_database_spring_security.jpg" width="438" height="308" alt="ertificate_database_spring_security.jpg"> </td>
   </tr>
  
   
