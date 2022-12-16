@@ -5,7 +5,39 @@ Passionate about java development, love coding.
 
 - 🌱 I’m currently learning JAVA
 - 🔭 Open to work, remote or office work. 
-- Stack : Intellij IDEA / Spring / Maven / Gradle / 
+<h4> Stack : Java, Intellij IDEA, JDBC/ R2DBC, Docker, Spring MVC,
+ Spring Framework, Linux, Maven/ Gradle, SOLID, Elasticsearch,
+ Java Core, SQL, CSS, HTML, GitHub, Photoshop Jenkins, 
+ Jira, Postman, Selenium, PostgreSQL, Scrum, Kanban, Agile </h4>
+
+## I had experience with technology and frameworks
+- Basics of Java Core
+- Git - version control system (GitHub, Gitlab)
+- Algorithms and data structures
+- Lambda, Stream API, Serialization
+- Maven and Gradle
+- Working with CSV, XML, JSON files
+- Code Testing and JUnit Tests, Mockito 
+- Networking basics. Model OSI, TCP, UDP HTTP protocol
+- JVM. Organization of memory. Garbage collectors, VisualVM
+- Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID
+- Multi-threaded (concurrent) and functional programming TDD and DDD
+- Web, Spring & Spring MVC
+- HTTP, JS, Ajax, REST, JSON, CORS
+- Java EE, Java Servlets, Servlets Containers
+- Dependency Injection, IoC
+- Spring Boot, RESTful API
+- Deploy Spring Boot applications (nginx, systemd, firewall, journalctl)
+- Linux, Docker
+- TestContainers, Kubernetes, clouds
+- Database:  
+- SQL ( DDL, DML) – PostgreSQL, MySql, Oracle
+- noSQL (MongoDB, Elasticsearch)
+- JDBC API, JdbcTemplate, NamedParametersJdbcTemplate.
+- JPA, ORM, Hibernate
+- Spring Security (Authentication and authorization)
+- Spring WebFlux Reactive, Spring Data R2DBC
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mySkillsKit&layout=compact&hide=css,html)
 
@@ -72,18 +104,18 @@ Here are some ideas to get you started:
 - 1.2 Структура программы
 - 1.3. Условные операторы и циклы
 - 1.4 Типы данных в Java: примитивы
-- 1.5 Типы данных в Java: объекты (квиз)
+- 1.5 Типы данных в Java: объекты
 - 1.6 Структура класса
 ### Блок 2. InMemory хранение данных — массивы
 - 2.1 Массивы одномерные
 - 2.2 Массивы многомерные
 ### Блок 3. Основы ООП
-- 3.1 Модификаторы доступа, наследование (квиз)
+- 3.1 Модификаторы доступа, наследование
 - 3.2 Полиморфизм
 - 3.3 Абстракции и интерфейсы
 - 3.4 Исключения, Stacktrace
 ### Блок 4. InMemory хранение данных — коллекции
-- 4.1 Generics в коллекциях и методах (квиз)
+- 4.1 Generics в коллекциях и методах
 - 4.2 Коллекции List
 - 4.3 Коллекции Queue
 - 4.4 Коллекция HashMap и HashSet
@@ -132,7 +164,7 @@ Here are some ideas to get you started:
 - 1.1 Spring Boot: назначение, внутреннее устройство
 - 1.2 REST
 ### Блок 2. Linux
-- 2.1 Виртуализация и основы работы (домашнее задание не предусмотрено)
+- 2.1 Виртуализация и основы работы
 - 2.2 Разворачивание Spring Boot приложений (nginx, systemd, firewall, journalctl)
 ### Блок 3. Docker
 - 3.1 Основы работы: Docker, Docker Compose, упаковка приложений
