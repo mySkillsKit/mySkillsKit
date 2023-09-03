@@ -3,7 +3,7 @@
 
 Passionate about java development, love coding.
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently working JAVA
 - 🔭 Open to work, remote or office work. 
 <h4> Stack : Java, Intellij IDEA, JDBC/ R2DBC, Docker, Spring MVC,
  Spring Framework, Linux, Maven/ Gradle, SOLID, Elasticsearch,
